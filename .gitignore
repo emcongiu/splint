@@ -1,0 +1,28 @@
+# Object files
+*.o
+*.Po
+.deps/
+
+
+# Autotools
+Makefile
+Makefile.in
+config.*
+configure
+depcomp
+install-sh
+aclocal.m4
+autom4te.cache/
+compile
+missing
+INSTALL
+
+# Eclipse files
+.autotools
+.cproject
+.project
+.settings/
+
+# Binaries
+src/test
+
