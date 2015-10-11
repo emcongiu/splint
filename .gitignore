@@ -17,7 +17,6 @@ Makefile
 /missing
 /stamp-h1
 /INSTALL
-
 /config.*
 
 # Eclipse files
